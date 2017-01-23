@@ -1,0 +1,58 @@
+Install Maven 3.3.9 on ubuntu
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Note!!!! Linux users cannot use apt-get install to install Maven 3.3.9 or greater
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Rsource: http://javedmandary.blogspot.com/2016/09/install-maven-339-on-ubuntu.html
+
+The following instructions are based on resources listed above.
+
+The following commands needs to be adapted based on the version of Maven you want to install.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+1. This article assumes that you are installing on Ubuntu the version 3.3.9 of maven ( currently latest version as am writing entry ):
+
+sudo mkdir -p /usr/local/apache-maven
+
+on Maven's official website, download the "apache-maven-3.3.9-bin.tar.gz" file to the path /usr/local/apache-maven
+
+cd /usr/local/apache-maven
+
+sudo tar -xzvf apache-maven-3.3.9-bin.tar.gz
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+2. Once this is done add to you environment variables by editing .bashrc:
+
+nano ~/.bashrc
+
+export M2_HOME=/usr/local/apache-maven/apache-maven-3.3.9
+export M2=$M2_HOME/bin
+export MAVEN_OPTS="-Xms256m -Xmx512m"
+export PATH=$M2:$PATH
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+3. then apply it by executing :
+
+. ~/.bashrc
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+4. now to verify the installation:
+
+mvn -v
+
+============  Output  ================
+Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T11:41:47-05:00)
+Maven home: /usr/local/apache-maven/apache-maven-3.3.9
+Java version: 1.8.0_121, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-8-oracle/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "4.4.0-59-generic", arch: "amd64", family: "unix"
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
