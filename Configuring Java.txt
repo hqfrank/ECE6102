@@ -1,0 +1,8 @@
+Configuring Java
+
+You can use Java 7 or Java 8, but you must use Java 7 bytecode level. If you are using Java 8, configure your app to target Java 7 in your project's pom.xml:
+
+<properties>  <!-- App Engine Standard currently requires Java 7 -->
+  <maven.compiler.target>1.7</maven.compiler.target>
+  <maven.compiler.source>1.7</maven.compiler.source>
+</properties>
