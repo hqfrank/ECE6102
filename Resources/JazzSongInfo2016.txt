@@ -1,0 +1,40 @@
+1	The Way We Play / Minority (Medley)	Marquis Hill	The Way We Play	6:12	1.29	Jazz
+2	Zigzagger	Takuya Kuroda	Zigzagger	6:34	1.29	Jazz
+3	Psychotubes	Moon Hooch	Red Sky	3:01	1.29	Jazz
+4	The Second	Derrick Hodge	The Second	5:41	1.29	Jazz
+5	The Beautiful Ones (Instrumental)	The Bad Plus	It's Hard	3:32	1.29	Jazz
+6	In My Room	Jacob Collier	In My Room	4:49	1.29	Jazz
+7	This Could Be (For The Travelling Soul)	Theo Croker	Escape Velocity	4:46	1.29	Jazz
+8	Song for Selim	Miles Davis & Robert Glasper feat. KING	Everything's Beautiful [Explicit]	2:39	1.29	Jazz
+9	In Your Eyes (feat. Charlotte Day Wilson)	Badbadnotgood	IV	4:07	1.29	Jazz
+10	Day Breaks	Norah Jones	Day Breaks	3:57	1.29	Jazz
+11	Human Nature	Herb Alpert	Human Nature	3:03	1.29	Jazz
+12	Unconditional Love	Esperanza Spalding	Emily's D+Evolution (Deluxe Edition)	3:46	1.29	Jazz
+13	We Don't Want Nobody Nobody Sent	Charlie Hunter	Everybody Has A Plan Until They Get Punched In The Mouth	5:31	1.29	Jazz
+14	Day To Day	Robert Glasper Experiment	ArtScience [Explicit]	5:24	1.29	Jazz
+15	Spark [feat. Anthony Jackson and Simon Phillips]	Hiromi	Spark	9:04	1.29	Jazz
+16	Executive Life	Jeff Parker	The New Breed	7:38	1.29	Jazz
+17	You're Still The One	John Scofield	Country For Old Men	4:20	1.29	Jazz
+18	Tarova	Snarky Puppy	Culcha Vulcha	3:39	1.29	Jazz
+19	Struggle Sounds	Seun Kuti & Egypt 80	Struggle Sounds	7:11	1.29	Jazz
+20	Doubt	Ben Wendel	What We Bring	4:55	1.29	Jazz
+21	Three Little Words	Cyrille Aimée	Let's Get Lost	2:32	1.29	Jazz
+22	Cohearance	Yellowjackets	Cohearence	7:43	0.99	Jazz
+23	Shout Sister Shout	Madeleine Peyroux	Secular Hymns	2:42	1.29	Jazz
+24	Echoes Of Utopia	Incognito	In Search Of Better Days	6:50	1.29	Jazz
+25	Soul Eyes [feat. Terence Blanchard]	Kandace Springs	Soul Eyes	3:22	1.29	Jazz
+26	Criss Cross	Joey Alexander	Countdown (Bonus Track Edition)	5:05	1.29	Jazz
+27	French Fries & Champagne	The Hot Sardines	French Fries & Champagne	3:01	1.29	Jazz
+28	Still Euge	Euge Groove	Still Euge	5:15	1.29	Jazz
+29	Egyptian Fantasy	Bria Skonberg	Bria	5:46	1.29	Jazz
+30	Beautiful Love	Nels Cline	Lovers	3:58	1.29	Jazz
+31	Third Phase	The Cookers	The Call of the Wild and Peaceful Heart	8:23	1.29	Jazz
+32	I Want to Be Happy	Erroll Garner	Ready Take One	3:00	1.29	Jazz
+33	Holding On	Gregory Porter	Take Me To The Alley	5:02	1.29	Jazz
+34	Broasted or Fried	Willie Bobo	Dig My Feeling	3:55	0.89	Jazz
+35	Sabanas Blancas	Alfredo Rodríguez	Tocororo	4:06	0.99	Jazz
+36	Happy Hour	Chuck Loeb	Unspoken	6:04	1.29	Jazz
+37	You Don't Know Me	Neal McCoy	You Don't Know Me	3:59	1.29	Jazz
+38	The Return (Upward Spiral)	Branford Marsalis Quartet & Kurt Elling	Upward Spiral	7:19	1.29	Jazz
+39	Ornithology	Joshua Redman And Brad Mehldau	Nearness	8:38	1.29	Jazz
+40	Nocturne	Julian Lage	Arclight	3:19	1.29	Jazz

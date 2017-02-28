@@ -1,0 +1,50 @@
+1	The Devil's Bleeding Crown	Volbeat	Seal The Deal & Let's Boogie	3:58	1.29	Rock
+2	Moth Into Flame	Metallica	Hardwired...To Self-Destruct	5:50	1.29	Rock
+3	Joyride (Omen)	Chevelle	The North Corridor	3:37	1.29	Rock
+4	Feel Invincible	Skillet	Unleashed	3:49	1.29	Rock
+5	My Name Is Human [Explicit]	Highly Suspect	The Boy Who Died Wolf [Explicit]	4:18	1.29	Rock
+6	Square Hammer	Ghost B.C.	Popestar	3:59	1.29	Rock
+7	I Don't Care Anymore	Hellyeah	Unden!able	4:41	1.29	Rock
+8	Atlas, Rise!	Metallica	Hardwired...To Self-Destruct	6:28	1.29	Rock
+9	Rotting In Vain [Explicit]	Korn	The Serenity of Suffering [Explicit]	3:33	1.29	Rock
+10	Show Me A Leader	Alter Bridge	The Last Hero	5:05	1.29	Rock
+11	Heathens	twenty one pilots	Suicide Squad: The Album [Explicit]	3:15	1.29	Rock
+12	Could Have Been Me	The Struts	Everybody Wants	3:07	1.29	Rock
+13	Dark Necessities	Red Hot Chili Peppers	The Getaway	5:02	1.29	Rock
+14	Take Me Down	The Pretty Reckless	Who You Selling For	4:13	1.29	Rock
+15	Seal The Deal	Volbeat	Seal The Deal & Let's Boogie	4:09	1.29	Rock
+16	Prayers for the Damned	Sixx:A.M.	Prayers for the Damned [Explicit]	4:39	1.29	Rock
+17	Black Honey	Thrice	To Be Everywhere Is To Be Nowhere	3:59	1.29	Rock
+18	Bored To Death	blink-182	California [Explicit]	3:55	1.29	Rock
+19	Stuck In Your Head	I Prevail	Lifelines [Explicit]	3:35	1.29	Rock
+20	The Eagle has Landed	Avatar	The Eagle has Landed	5:01	1.29	Rock
+21	Phantom Bride	Deftones	Gore	4:53	1.29	Rock
+22	Paranoia	A Day To Remember	Bad Vibrations (Deluxe Edition)	3:20	1.29	Rock
+23	In The Dark	3 Doors Down	Us And The Night	3:43	1.29	Rock
+24	Bang Bang	Green Day	Revolution Radio	3:25	1.29	Rock
+25	Hated	Beartooth	Aggressive	3:31	1.29	Rock
+26	The Stage	Avenged Sevenfold	The Stage	8:32	1.29	Rock
+27	Go (Let Me Save You)	Citizen Zero	State Of Mind [Explicit]	4:38	1.29	Rock
+28	Still Breathing	Green Day	Revolution Radio	3:44	1.29	Rock
+29	Here I Am	Asking Alexandria	The Black [Explicit]	4:19	1.29	Rock
+30	11:11	Dinosaur Pile-Up	Eleven Eleven	4:04	1.29	Rock
+31	Stick To Your Guns	Sick Puppies	Stick To Your Guns	3:18	1.29	Rock
+32	Running With Giants	Thousand Foot Krutch	Running With Giants	4:08	1.29	Rock
+33	Lightning In The Sky	Devour the Day	S.O.A.R [Explicit]	3:24	1.29	Rock
+34	Stronger (Extended Version) [Explicit]	Through Fire	Breathe [Explicit]	4:05	1.29	Rock
+35	Remember We Die	Gemini Syndrome	Memento Mori	3:45	1.29	Rock
+36	Hate By Design	Killswitch Engage	Incarnate [Explicit]	3:46	1.29	Rock
+37	Naivety	A Day To Remember	Bad Vibrations (Deluxe Edition)	3:19	1.29	Rock
+38	Is There Anybody out There?	Machine Head	Is There Anybody out There?	4:32	1.29	Rock
+39	Sleeping Dogs (feat. Corey Taylor)	Zakk Wylde	Book of Shadows II (Bonus Track Edition)	4:36	1.29	Rock
+40	Waste A Moment	Kings Of Leon	Walls	3:03	1.29	Rock
+41	Well, Everybody's Fucking In A U.F.O. [Explicit]	Rob Zombie	The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser [Explicit]	2:43	1.29	Rock
+42	Door to Door Cannibals	Chevelle	The North Corridor	4:35	1.29	Rock
+43	Take Me [Explicit]	Korn	The Serenity of Suffering [Explicit]	3:00	1.29	Rock
+44	We Will Not Go Quietly	Sixx:A.M.	Prayers for the Blessed [Explicit]	4:20	1.29	Rock
+45	In Our Dreams	Black Stone Cherry	Kentucky (Deluxe Edition) [Explicit]	3:49	1.29	Rock
+46	Real	Of Mice And Men	Cold World	3:12	1.29	Rock
+47	Generation Idiot	Nonpoint	The Poison Red [Explicit]	3:27	1.29	Rock
+48	Devil's Calling	Parkway Drive	Ire (Deluxe Edition)	3:26	1.29	Rock
+49	Breaking Now	From Ashes to New	Day One	3:30	1.29	Rock
+50	Excuse Me	Fire from the Gods	Narrative	4:04	1.29	Rock

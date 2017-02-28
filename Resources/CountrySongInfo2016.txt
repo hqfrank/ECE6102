@@ -1,0 +1,35 @@
+1	Vice	Miranda Lambert	The Weight of These Wings	4:00	1.29	Country
+2	Different For Girls	Dierks Bentley	Black	3:00	1.29	Country
+3	H.O.L.Y.	Florida Georgia Line	Dig Your Roots	3:14	1.29	Country
+4	My Church	Maren Morris	Hero	3:17	1.29	Country
+5	21 Summer	Brothers Osborne	Pawn Shop	3:34	1.29	Country
+6	She's Got a Way With Words	Blake Shelton	If I'm Honest	3:11	1.29	Country
+7	Rock On	Tucker Beathard	Fight Like Hell EP	3:33	1.29	Country
+8	Setting the World On Fire	Kenny Chesney	Cosmic Hallelujah	3:38	1.29	Country
+9	You Look Like I Need A Drink	Justin Moore	Kinda Don't Care (Deluxe Version)	3:07	1.29	Country
+10	Better Man	Little Big Town	Better Man	4:20	1.29	Country
+11	A Little More Summertime	Jason Aldean	They Don't Know	3:39	1.29	Country
+12	It All Started with a Beer	Frankie Ballard	El Rio	4:19	1.29	Country
+13	You Are My Sunshine (with Chris Stapleton)	Morgane Stapleton	Southern Family	6:13	1.29	Country
+14	White Lightning	The Cadillac Three	Bury Me In My Boots	2:57	1.29	Country
+15	Brace For Impact (Live A Little)	Sturgill Simpson	A Sailor's Guide to Earth	5:49	1.29	Country
+16	Four Years of Chances	Margo Price	Midwest Farmer's Daughter	4:33	1.29	Country
+17	Sit Here and Cry	Aubrie Sellers	New City Blues	2:42	1.29	Country
+18	Head Over Boots	Jon Pardi	California Sunrise	3:22	1.29	Country
+19	Wasted Time	Keith Urban	Ripcord	3:53	1.29	Country
+20	Baby, Let's Lay Down and Dance	Garth Brooks	Baby, Let's Lay Down and Dance	2:52	1.29	Country
+21	Fix	Chris Lane	Girl Problems	3:10	1.29	Country
+22	I Know Somebody	LOCASH	The Fighters	3:17	1.29	Country
+23	Backroad Song	Granger Smith	Remington	3:56	1.29	Country
+24	Hurricane	Luke Combs	This One's for You - EP	3:44	1.29	Country
+25	Thunder in the Rain	Kane Brown	Kane Brown	2:44	1.29	Country
+26	American Country Love Song	Jake Owen	American Love	3:19	1.29	Country
+27	Starfire	Caitlyn Smith	Starfire	4:31	1.29	Country
+28	I Met a Girl	William Michael Morgan	Vinyl	3:21	1.29	Country
+29	Sleep Without You	Brett Young	Brett Young	3:07	1.29	Country
+30	Star Of The Show	Thomas Rhett	Tangled Up (Deluxe)	3:01	1.29	Country
+31	If I Told You	Darius Rucker	If I Told You	3:34	1.29	Country
+32	Makin' Me Look Good Again	Drake White	Spark	3:58	1.29	Country
+33	From the Ground Up	Dan + Shay	Obsessed	4:13	1.29	Country
+34	You Should Be Here	Cole Swindell	You Should Be Here	3:10	1.29	Country
+35	The Driver [feat. Dierks Bentley & Eric Paslay]	Charles Kelley	The Driver [feat. Dierks Bentley & Eric Paslay]	4:36	1.29	Country

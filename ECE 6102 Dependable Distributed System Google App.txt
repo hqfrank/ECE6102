@@ -1,0 +1,35 @@
+ECE 6102 Dependable Distributed System Google App Engine for Java Tutorial
+
+1. Visit cloud.google.com/appengine/docs/java
+
+2. Select "Quickstart"
+
+3. Download and install the Java SE Development Kit (JDK). It's better to install jdk 1.7.0, thus you will not need to handle the compatability issue of the java version.
+
+4. Download and install Appache Maven version 3.3.9 or greater.
+	1) For windows, download the Binary zip archive
+	2) Unzip the .zip file, and move the directory "apache-maven-3.3.9" to C:\Program Files\
+	3) Open the "Advanced system settings", choose tab "Advanced", click "Environment Variables"
+	4) Select the "Path" variable in the "User variables for username", and click "New" to add "C:\Program Files\apache-maven-3.3.9\bin" to the variable, and then click OK to return
+	5) Click "New..." to add a new User Variable "JAVA_HOME" as "C:\Program Files\Java\jdk1.7.0_51"
+	6) Open a new command window, and run "mvn -v" to verify the installation
+
+	I also wrote a tip for installing Apache maven 3.3.9 on Ubuntu, which can be found in my github repository https://github.com/hqfrank/ECE6102.git
+
+	Maven is a build automation tool used primarily for Java projects. Maven addresses two aspects of building software: first, it describes how software is built, and second, it describes its dependencies. An XML file describes the software project being built, its dependencies on other external modules and components, the build order, directories, and required plug-ins. Maven dynamically downloads Java libraries and Maven plug-ins from one or more repositories such as the Maven 2 Central Repository, and stores them in a local cache. Maven projects are configured using a Project Object Model, which is stored in a pom.xml-file.
+
+5. Configure Java 7 for app in the app's pom.xml file.
+
+<properties>  <!-- App Engine Standard currently requires Java 7 -->
+  <maven.compiler.target>1.7</maven.compiler.target>
+  <maven.compiler.source>1.7</maven.compiler.source>
+</properties>
+
+6. The guestbook app uses javax.servlet and JavaServer Pages (JSP).
+	1) A Java servlet is a Java program that extends the capabilities of a server. A Servlet is an object that receives a request and generates a response based on that request. They most commonly implement applications hosted on Web servers. Such Web servlets are the Java counterpart to other dynamic Web content technologies such as PHP and ASP.NET. They are most often used with the HTTP protocol. A software developer may use a servlet to add dynamic content to a web server using the Java platform. The generated content is commonly HTML, but may be other data such as XML. The difference between servlets and JSP is that servlets typically embed HTML inside Java code, while JSPs embed Java code in HTML.
+		1.1 Three methods are central to the life cycle of a servlet. These are init(), service(), and destroy(). They are implemented by every servlet and are invoked at specific times by the server.
+		* During initialization stage of the servlet life cycle, the web container initializes the servlet instance by calling the init() method, passing an object implementing the javax.servlet.ServletConfig interface. This configuration object allows the servlet to access name-value initialization parameters from the web application.
+		* After initialization, the servlet instance can service client requests. Each request is serviced in its own separate thread. The web container calls the service() method of the servlet for every request. The service() method determines the kind of request being made and dispatches it to an appropriate method to handle the request. The developer of the servlet must provide an implementation for these methods. If a request is made for a method that is not implemented by the servlet, the method of the parent class is called, typically resulting in an error being returned to the requester.
+		* Finally, the web container calls the destroy() method that takes the servlet out of service. The destroy() method, like init(), is called only once in the lifecycle of a servlet.
+
+	2) JavaServer Pages (JSP) is a technology that helps software developers create dynamically generated web pages based on HTML, XML, or other document types. JSP is similar to PHP, ASP and React's JSX but it uses the Java programming language. To deploy and run JavaServer Pages, a compatible web server with a servlet container, such as Apache Tomcat or Jetty, is required. Architecturally, JSP may be viewed as a high-level abstraction of Java servlets. JSPs are translated into servlets at runtime,therefore JSP is a Servlet; each JSP servlet is cached and re-used until the original JSP is modified.

@@ -1,0 +1,50 @@
+1	Roses	The Chainsmokers feat. ROZES	Bouquet	3:45	1.29	Dance
+2	Lean On (feat. MØ & DJ Snake)	Major Lazer	Peace Is The Mission [Explicit]	2:56	1.29	Dance
+3	Wake Me Up	Avicii	True	4:07	1.29	Dance
+4	Titanium (Feat. Sia)	David Guetta	Nothing But The Beat	4:05	1.29	Dance
+5	Feel So Close (Radio Edit)	Calvin Harris	18 Months [Explicit]	3:26	1.29	Dance
+6	Light It Up (Remix) [feat. Nyla & Fuse ODG]	Major Lazer	Peace Is The Mission (Extended) [Explicit]	2:46	1.29	Dance
+7	New York City	The Chainsmokers	Bouquet	3:50	1.29	Dance
+8	Runaway (U & I)	Galantis	Pharmacy	3:47	1.29	Dance
+9	Never Be Like You (feat. Kai) [Explicit]	Flume	Skin [Explicit]	3:53	1.29	Dance
+10	Latch [feat. Sam Smith]	Disclosure	Settle	4:15	1.29	Dance
+11	Midnight City	M83	Hurry Up, We're Dreaming	4:01	1.29	Dance
+12	Beautiful Now	Zedd	True Colors	3:38	1.29	Dance
+13	Alone	Marshmello	Alone	4:33	1.29	Dance
+14	One More Time	Daft Punk	Discovery	5:20	1.29	Dance
+15	Harder Better Faster Stronger	Daft Punk	Discovery	3:44	1.29	Dance
+16	Alive	Krewella	Play Hard EP [Explicit]	4:50	1.29	Dance
+17	We Found Love	Calvin Harris feat. Rihanna	18 Months [Explicit]	3:35	1.29	Dance
+18	Waiting For Love	Avicii	Stories	3:50	1.29	Dance
+19	I Can't Stop	Flux Pavilion	Lines in Wax	5:03	1.29	Dance
+20	Outside	Calvin Harris feat. Ellie Goulding	Motion [Explicit]	3:47	1.29	Dance
+21	Walking On A Dream	Empire Of The Sun	Walking On A Dream	3:18	1.29	Dance
+22	I Need Your Love	Calvin Harris feat. Ellie Goulding	18 Months [Explicit]	3:54	1.29	Dance
+23	Until You Were Gone	The Chainsmokers & Tritonal feat. Emily Warren	Bouquet	3:37	1.29	Dance
+24	Lay It All On Me (feat. Ed Sheeran)	Rudimental	We The Generation (Deluxe Edition) [Explicit]	4:02	1.29	Dance
+25	Bangarang (Feat. Sirah) [Explicit]	Skrillex	Bangarang EP [Explicit]	3:35	1.29	Dance
+26	Summer	Calvin Harris	Summer	3:44	1.29	Dance
+27	Crystallize	Lindsey Stirling	Lindsey Stirling	4:18	1.29	Dance
+28	Get Low	Dillon Francis & DJ Snake	Money Sucks, Friends Rule	3:34	1.29	Dance
+29	Don't You Worry Child (feat. John Martin)	Swedish House Mafia	Until Now (Deluxe Version)	3:58	1.29	Dance
+30	Rather Be (feat. Jess Glynne)	Clean Bandit	New Eyes	3:47	1.29	Dance
+31	Shatter Me Featuring Lzzy Hale	Lindsey Stirling	Shatter Me	4:40	1.29	Dance
+32	Anthem	Emancipator	Soon It Will Be Cold Enough	5:40	1.29	Dance
+33	Be Right There	Diplo & Sleepy Tom	Be Right There	3:57	1.29	Dance
+34	I Want You To Know	Zedd	True Colors	4:00	1.29	Dance
+35	Peanut Butter Jelly	Galantis	Pharmacy	3:23	1.29	Dance
+36	Bulletproof	La Roux	La Roux (Amazon Exclusive Version)	3:25	1.29	Dance
+37	StarWaves	M83, Anthony Gonzalez & Joseph Trapanese	Oblivion - Original Motion Picture Soundtrack	3:41	1.29	Dance
+38	There Might Be Coffee	deadmau5	> album title goes here <	7:02	1.29	Dance
+39	Powerful (feat. Ellie Goulding & Tarrus Riley)	Major Lazer	Peace Is The Mission [Explicit]	3:26	1.29	Dance
+40	Yellow Bird	Pretty Lights	A Color Map of the Sun	5:39	1.29	Dance
+41	Blame	Calvin Harris feat. John Newman	Motion [Explicit]	3:33	1.29	Dance
+42	Hey Brother	Avicii	True	4:15	1.29	Dance
+43	Boomerang	JoJo Siwa	Boomerang	3:27	1.29	Dance
+44	Lone Digger	Caravan Palace		3:49	1.29	Dance
+45	Sweet Nothing	Calvin Harris feat. Florence Welch	18 Months [Explicit]	3:32	1.29	Dance
+46	Fortune Days	The Glitch Mob	Drink The Sea	6:22	1.29	Dance
+47	Scary Monsters And Nice Sprites	Skrillex	Scary Monsters And Nice Sprites EP [Explicit]	4:03	1.29	Dance
+48	Cinema (Skrillex Remix)	Benny Benassi feat. Gary Go	Cinema (Pt. 2)	5:07	1.29	Dance
+49	I Love It (feat. Charli XCX) [Explicit]	Icona Pop	This Is... Icona Pop [Explicit]	2:37	1.29	Dance
+50	Turn Me On (Feat. Nicki Minaj)	David Guetta	Nothing But The Beat	3:19	1.29	Dance

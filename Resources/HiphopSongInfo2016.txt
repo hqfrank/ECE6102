@@ -1,0 +1,60 @@
+1	Controlla [Explicit]	Drake	Views [Explicit]	4:05	1.29	Hiphop
+2	Needed Me [Explicit]	Rihanna	Anti (Deluxe) [Explicit]	3:11	1.29	Hiphop
+3	Famous [Explicit]	Kanye West	The Life Of Pablo [Explicit]	3:16	1.29	Hiphop
+4	Starboy [Explicit]	The Weeknd	Starboy [Explicit]	3:50	1.29	Hiphop
+5	untitled 07 | levitate [Explicit]	Kendrick Lamar	untitled 07 | levitate [Explicit]	2:26	1.29	Hiphop
+6	No Problem (feat. Lil Wayne & 2 Chainz) [Explicit]	Chance the Rapper	Coloring Book [Explicit]	5:04	1.29	Hiphop
+7	Why You Always Hatin? [feat. Kamaiyah] [Explicit]	YG	Still Brazy (Deluxe) [Explicit]	3:16	1.29	Hiphop
+8	Work [feat. Drake] [Explicit]	Rihanna	Anti (Deluxe) [Explicit]	3:39	1.29	Hiphop
+9	LUV [Explicit]	Tory Lanez	I Told You [Explicit]	4:09	1.29	Hiphop
+10	Really Really [Explicit]	Kevin Gates	Islah [Explicit]	3:52	1.29	Hiphop
+11	Black Beatles [Explicit]	Rae Sremmurd	SremmLife 2 (Deluxe) [Explicit]	4:51	1.29	Hiphop
+12	All The Way Up (feat. French Montana & Infared) [Explicit]	Fat Joe & Remy Ma	All The Way Up (feat. French Montana & Infared) - Single [Explicit]	3:11	1.29	Hiphop
+13	One Dance	Drake	Views [Explicit]	2:54	1.29	Hiphop
+14	Broccoli [Explicit]	D.R.A.M. (feat. Lil Yachty)	Big Baby D.R.A.M. [Explicit]	3:45	1.29	Hiphop
+15	Pink + White	Frank Ocean	Blonde [Explicit]	3:04	1.29	Hiphop
+16	Am I Wrong [Explicit]	Anderson .Paak	Malibu [Explicit]	4:13	1.29	Hiphop
+17	Cranes in the Sky	Solange	A Seat at the Table [Explicit]	4:11	1.29	Hiphop
+18	Deja Vu [Explicit]	J. Cole	4 Your Eyez Only [Explicit]	4:24	1.29	Hiphop
+19	We The People.... [Explicit]	A Tribe Called Quest	We got it from Here... Thank You 4 Your service [Explicit]	2:52	1.29	Hiphop
+20	Tiimmy Turner [Explicit]	Desiigner	Tiimmy Turner [Explicit]	3:59	1.29	Hiphop
+21	Do You Mind [Explicit]	DJ Khaled feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross	Major Key [Explicit]	5:25	1.29	Hiphop
+22	Come and See Me (feat. Drake) [Explicit]	Partynextdoor	Partynextdoor 3 (P3) [Explicit]	3:55	1.29	Hiphop
+23	Weight in Gold	Gallant	Ology	3:23	1.29	Hiphop
+24	Low Life [Explicit]	Future feat. The Weeknd	Evol [Explicit]	5:13	1.29	Hiphop
+25	Father Stretch My Hands Pt. 1 [Explicit]	Kanye West	The Life Of Pablo [Explicit]	2:15	1.29	Hiphop
+26	Lake By the Ocean	Maxwell	blackSUMMERS'night	3:59	1.29	Hiphop
+27	THat Part [Explicit]	Schoolboy Q	Blank Face LP [Explicit]	5:13	1.29	Hiphop
+28	No Limit [Explicit]	Usher feat. Young Thug	No Limit [Explicit]	3:48	1.29	Hiphop
+29	Dang! (feat. Anderson .Paak) [Explicit]	Mac Miller	The Divine Feminine [Explicit]	5:05	1.29	Hiphop
+30	For Free [Explicit]	DJ Khaled feat. Drake	Major Key [Explicit]	3:03	1.29	Hiphop
+31	X (feat. Future) [Explicit]	21 Savage, Metro Boomin & Future	Savage Mode [Explicit]	4:18	1.29	Hiphop
+32	Love Star [feat. PJ] [Explicit]	Common	Black America Again [Explicit]	5:09	1.29	Hiphop
+33	One Night [Explicit]	Lil Yachty	Lil Boat [Explicit]	4:03	1.29	Hiphop
+34	No Shopping [Explicit]	French Montana feat. Drake	No Shopping [Explicit]	3:47	1.29	Hiphop
+35	pick up the phone [Explicit]	Young Thug and Travis Scott	Birds In The Trap Sing McKnight [Explicit]	4:12	1.29	Hiphop
+36	In Common	Alicia Keys	In Common	3:29	1.29	Hiphop
+37	LA Confidential [Explicit]	Tory Lanez	LA Confidential [Explicit]	2:54	1.29	Hiphop
+38	Too Deep	dvsn	Sept 5th [Explicit]	3:20	1.29	Hiphop
+39	Summer Sixteen [Explicit]	Drake	Summer Sixteen [Explicit]	3:22	1.29	Hiphop
+40	Surfin' [feat. Pharrell Williams] [Explicit]	Kid Cudi	Surfin' [Explicit]	3:58	1.29	Hiphop
+41	Bad Blood	Nao	For All We Know	4:00	1.29	Hiphop
+42	Bounce Back [Explicit]	Big Sean	I Decided. [Explicit]	3:42	1.29	Hiphop
+43	Devastated [Explicit]	Joey Bada$$	Devastated [Explicit]	3:28	1.29	Hiphop
+44	On The Way [Explicit]	TWENTY88	Twenty88 [Explicit]	3:23	1.29	Hiphop
+45	New Bae [Explicit]	Vic Mensa	There's Alot Going On [Explicit]	4:21	1.29	Hiphop
+46	Wicked [Explicit]	Future	Wicked [Explicit]	2:53	1.29	Hiphop
+47	MFN Right [Explicit]	2 Chainz	Collegrove [Explicit]	3:24	1.29	Hiphop
+48	Caroline [Explicit]	Aminé	Caroline [Explicit]	3:29	1.29	Hiphop
+49	How Does It Feel [Explicit]	Kamaiyah	A Good Night in the Ghetto [Explicit]	2:37	1.29	Hiphop
+50	Chill Bill [Explicit]	Rob $tone feat. J. Davi$ & Spooks	Chill Bill [Explicit]	2:57	1.29	Hiphop
+51	Grass Ain't Greener [Explicit]	Chris Brown	Grass Ain't Greener [Explicit]	3:21	1.29	Hiphop
+52	You Was Right [Explicit]	Lil Uzi Vert	Lil Uzi Vert Vs. The World [Explicit]	2:43	1.29	Hiphop
+53	CRZY [Explicit]	Kehlani	CRZY [Explicit]	3:11	1.29	Hiphop
+54	All Eyez (feat. Jeremih) [Bonus Track] [Explicit]	The Game	1992 [Explicit]	3:35	1.29	Hiphop
+55	Tru	Lloyd	Tru - Single	4:15	1.29	Hiphop
+56	Law [Explicit]	Yo Gotti feat. E-40	The Art of Hustle (Deluxe) [Explicit]	4:17	1.29	Hiphop
+57	Say Sum [Explicit]	Migos	Say Sum [Explicit]	4:05	1.29	Hiphop
+58	Spend It [Explicit]	Dae Dae	Spend It [Explicit]	3:28	1.29	Hiphop
+59	Overtime [Explicit]	Schoolboy Q	Blank Face LP [Explicit]	4:38	1.29	Hiphop
+60	Best to You	Blood Orange	Freetown Sound [Explicit]	3:45	1.29	Hiphop

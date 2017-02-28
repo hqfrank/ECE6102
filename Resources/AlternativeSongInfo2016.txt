@@ -1,0 +1,50 @@
+1	HandClap	Fitz & The Tantrums	Fitz and The Tantrums	3:13	1.29	Alternative
+2	Stressed Out	twenty one pilots	Blurryface	3:22	1.29	Alternative
+3	Ride	twenty one pilots	Blurryface	3:34	1.29	Alternative
+4	Shut Up and Dance	Walk the Moon	Talking Is Hard	3:19	1.29	Alternative
+5	Take Me to Church	Hozier	Hozier	4:01	1.29	Alternative
+6	Ophelia	The Lumineers	Cleopatra (Deluxe Edition) [Explicit]	2:40	1.29	Alternative
+7	Royals	Lorde	Pure Heroine [Explicit]	3:10	1.29	Alternative
+8	Tear In My Heart	twenty one pilots	Blurryface	3:08	1.29	Alternative
+9	Adventure Of A Lifetime	Coldplay	A Head Full Of Dreams	4:23	1.29	Alternative
+10	Hymn For The Weekend	Coldplay	A Head Full Of Dreams	4:18	1.29	Alternative
+11	Death Of A Bachelor	Panic! At The Disco	Death Of A Bachelor	3:23	1.29	Alternative
+12	Spirits	The Strumbellas	Hope	3:23	1.29	Alternative
+13	Heavydirtysoul	twenty one pilots	Blurryface	3:54	1.29	Alternative
+14	Renegades	X Ambassadors	VHS [Explicit]	3:15	1.29	Alternative
+15	Come with Me Now	Kongos	Lunatic [Explicit]	3:32	1.29	Alternative
+16	I Bet My Life	Imagine Dragons	Smoke + Mirrors	3:12	1.29	Alternative
+17	Demons	Imagine Dragons	Night Visions (Deluxe)	2:55	1.29	Alternative
+18	Gasoline [Explicit]	Halsey	Badlands (Deluxe) [Explicit]	3:19	1.29	Alternative
+19	Victorious	Panic! At The Disco	Death Of A Bachelor	2:58	1.29	Alternative
+20	Electric Love	BØRNS	Dopamine	3:38	1.29	Alternative
+21	My Songs Know What You Did In The Dark (Light Em Up)	Fall Out Boy	Save Rock And Roll	3:06	1.29	Alternative
+22	Lane Boy	twenty one pilots	Blurryface	4:13	1.29	Alternative
+23	Castle	Halsey	Badlands (Deluxe) [Explicit]	4:37	1.29	Alternative
+24	Somebody That I Used To Know [feat. Kimbra]	Gotye	Making Mirrors	4:05	1.29	Alternative
+25	Pumped Up Kicks	Foster The People	Torches	3:59	1.29	Alternative
+26	Seven Nation Army	The White Stripes	Elephant	3:51	1.29	Alternative
+27	Radioactive	Imagine Dragons	Night Visions	3:06	1.29	Alternative
+28	Basket Case	Green Day	Dookie [Explicit]	3:01	1.29	Alternative
+29	Ex's & Oh's	Elle King	Ex's & Oh's	3:21	1.29	Alternative
+30	Unsteady	X Ambassadors	VHS [Explicit]	3:13	1.29	Alternative
+31	The Judge	twenty one pilots	Blurryface	4:57	1.29	Alternative
+32	Doubt	twenty one pilots	Blurryface	3:11	1.29	Alternative
+33	Someone New	Hozier	Hozier	3:42	1.29	Alternative
+34	Car Radio	twenty one pilots	Vessel	4:27	1.29	Alternative
+35	Ain't No Rest for the Wicked	Cage The Elephant	Cage The Elephant [Explicit]	2:55	1.29	Alternative
+36	Fairly Local	twenty one pilots	Blurryface	3:27	1.29	Alternative
+37	Pompeii	Bastille	All This Bad Blood	3:34	1.29	Alternative
+38	Stolen Dance	Milky Chance	Sadnecessary	5:13	1.29	Alternative
+39	Sweater Weather	The Neighbourhood	I Love You. [Explicit]	4:00	1.29	Alternative
+40	Dark Necessities	Red Hot Chili Peppers	The Getaway	5:02	1.29	Alternative
+41	Cool Kids	Echosmith	Talking Dreams	3:35	1.29	Alternative
+42	Home	Edward Sharpe & The Magnetic Zeros	Up From Below	5:03	1.29	Alternative
+43	Safe And Sound	Capital Cities	In A Tidal Wave Of Mystery (Deluxe Edition)	3:12	1.29	Alternative
+44	Dog Days Are Over	Florence + The Machine	Lungs	4:12	1.29	Alternative
+45	Ain't It Fun	Paramore	Paramore	4:56	1.29	Alternative
+46	Polarize	twenty one pilots	Blurryface	3:46	1.29	Alternative
+47	It's Time	Imagine Dragons	Night Visions	3:58	1.29	Alternative
+48	Under The Bridge	Red Hot Chili Peppers	Blood Sugar Sex Magik (U.S. Version) [Explicit]	4:24	1.29	Alternative
+49	Cleopatra	The Lumineers	Cleopatra (Deluxe Edition) [Explicit]	3:21	1.29	Alternative
+50	Genghis Khan	Miike Snow	iii	3:32	1.29	Alternative
