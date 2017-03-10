@@ -19,7 +19,7 @@ public class Song{
 	}
 
 	public String toString(){
-		return Rank + "\t" + Name + "\t" + Artist + "\t" + Album + "\t" + Genre + "\t" + Length + "\t" + Price;
+		return Name + "\t" + Artist + "\t" + Album + "\t" + Genre + "\t" + Length + "\t" + Price;
 	}
 
 }

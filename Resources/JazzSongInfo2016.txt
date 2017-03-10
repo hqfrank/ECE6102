@@ -18,23 +18,23 @@
 18	Tarova	Snarky Puppy	Culcha Vulcha	3:39	1.29	Jazz
 19	Struggle Sounds	Seun Kuti & Egypt 80	Struggle Sounds	7:11	1.29	Jazz
 20	Doubt	Ben Wendel	What We Bring	4:55	1.29	Jazz
-21	Three Little Words	Cyrille Aimée	Let's Get Lost	2:32	1.29	Jazz
+21	Three Little Words	Cyrille Aimée	Let's Get Lost	2:32	0.99	Jazz
 22	Cohearance	Yellowjackets	Cohearence	7:43	0.99	Jazz
-23	Shout Sister Shout	Madeleine Peyroux	Secular Hymns	2:42	1.29	Jazz
-24	Echoes Of Utopia	Incognito	In Search Of Better Days	6:50	1.29	Jazz
-25	Soul Eyes [feat. Terence Blanchard]	Kandace Springs	Soul Eyes	3:22	1.29	Jazz
-26	Criss Cross	Joey Alexander	Countdown (Bonus Track Edition)	5:05	1.29	Jazz
-27	French Fries & Champagne	The Hot Sardines	French Fries & Champagne	3:01	1.29	Jazz
-28	Still Euge	Euge Groove	Still Euge	5:15	1.29	Jazz
-29	Egyptian Fantasy	Bria Skonberg	Bria	5:46	1.29	Jazz
-30	Beautiful Love	Nels Cline	Lovers	3:58	1.29	Jazz
-31	Third Phase	The Cookers	The Call of the Wild and Peaceful Heart	8:23	1.29	Jazz
-32	I Want to Be Happy	Erroll Garner	Ready Take One	3:00	1.29	Jazz
-33	Holding On	Gregory Porter	Take Me To The Alley	5:02	1.29	Jazz
-34	Broasted or Fried	Willie Bobo	Dig My Feeling	3:55	0.89	Jazz
-35	Sabanas Blancas	Alfredo Rodríguez	Tocororo	4:06	0.99	Jazz
-36	Happy Hour	Chuck Loeb	Unspoken	6:04	1.29	Jazz
-37	You Don't Know Me	Neal McCoy	You Don't Know Me	3:59	1.29	Jazz
-38	The Return (Upward Spiral)	Branford Marsalis Quartet & Kurt Elling	Upward Spiral	7:19	1.29	Jazz
-39	Ornithology	Joshua Redman And Brad Mehldau	Nearness	8:38	1.29	Jazz
-40	Nocturne	Julian Lage	Arclight	3:19	1.29	Jazz
+23	Shout Sister Shout	Madeleine Peyroux	Secular Hymns	2:42	0.99	Jazz
+24	Echoes Of Utopia	Incognito	In Search Of Better Days	6:50	0.99	Jazz
+25	Soul Eyes [feat. Terence Blanchard]	Kandace Springs	Soul Eyes	3:22	0.99	Jazz
+26	Criss Cross	Joey Alexander	Countdown (Bonus Track Edition)	5:05	0.99	Jazz
+27	French Fries & Champagne	The Hot Sardines	French Fries & Champagne	3:01	0.99	Jazz
+28	Still Euge	Euge Groove	Still Euge	5:15	0.99	Jazz
+29	Egyptian Fantasy	Bria Skonberg	Bria	5:46	0.99	Jazz
+30	Beautiful Love	Nels Cline	Lovers	3:58	0.99	Jazz
+31	Third Phase	The Cookers	The Call of the Wild and Peaceful Heart	8:23	0.79	Jazz
+32	I Want to Be Happy	Erroll Garner	Ready Take One	3:00	0.79	Jazz
+33	Holding On	Gregory Porter	Take Me To The Alley	5:02	0.79	Jazz
+34	Broasted or Fried	Willie Bobo	Dig My Feeling	3:55	0.79	Jazz
+35	Sabanas Blancas	Alfredo Rodríguez	Tocororo	4:06	0.79	Jazz
+36	Happy Hour	Chuck Loeb	Unspoken	6:04	0.59	Jazz
+37	You Don't Know Me	Neal McCoy	You Don't Know Me	3:59	0.59	Jazz
+38	The Return (Upward Spiral)	Branford Marsalis Quartet & Kurt Elling	Upward Spiral	7:19	0.59	Jazz
+39	Ornithology	Joshua Redman And Brad Mehldau	Nearness	8:38	0.59	Jazz
+40	Nocturne	Julian Lage	Arclight	3:19	0.59	Jazz

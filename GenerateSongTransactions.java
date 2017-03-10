@@ -13,6 +13,7 @@ public class GenerateSongTransactions{
 	public static void main(String[] args) {
 		int numTransactions = Integer.parseInt(args[0]);
 
+		// =================== Generate Song Repository =================
 		List<String> songGenre = new ArrayList<String>();
 		songGenre.add("Alternative");
 		songGenre.add("Country");
@@ -22,19 +23,43 @@ public class GenerateSongTransactions{
 		songGenre.add("Pop");
 		songGenre.add("Rock");
 		int numGenre = songGenre.size();
+		String[] genreList = songGenre.toArray(new String[0]);
 		Songlist[] songLists = new Songlist[numGenre];
 		for(int i = 0; i < numGenre; i++){
 			String songListFilePath = "Resources/"+songGenre.get(i)+"SongInfo2016.txt";
 			songLists[i] = new Songlist(songGenre.get(i), songListFilePath);
-			for(int j = 0; j < songLists[i].Number; j++)
-				System.out.println(songLists[i].Songs[j]);
+			// for(int j = 0; j < songLists[i].Number; j++)
+			// 	System.out.println(songLists[i].Songs[j]);
 		}
+		// =================== Read in All Users ==================
+		try{
+			List<String> filelines = Files.readAllLines(Paths.get("Resources/UserNames.txt"));
+			int numUsers = filelines.size();
+			User[] allUsers = new User[numUsers];
+			for(int i=0; i<numUsers; i++){
+				allUsers[i] = new User(filelines.get(i));
+				// System.out.println(allUsers[i]);
+			}
+			Transaction[] randomTransactions = new Transaction[numTransactions];
+			// =================== Generate Each Transaction ==================
+			for(int i = 0; i < numTransactions; i++){
+				randomTransactions[i] = new Transaction(songLists, songGenre, allUsers);
+				System.out.println(randomTransactions[i]);
+				File transactionFile = new File("Results/Transactions.txt");
+				try{
+					for(int j=0; j<randomTransactions[i].SongsPurchased.length; j++){
+						String transactionsData = randomTransactions[i].DateTrans + "\t" + randomTransactions[i].Buyer + "\t" + randomTransactions[i].SongsPurchased[j].toString();
+						PrintWriter printWriter = new PrintWriter(new FileOutputStream(transactionFile, true));
+						printWriter.println(transactionsData);
+						printWriter.close();
+					}
+					
+				}catch(IOException e){}
 
+			}
+		}catch(IOException e){}
 
-
-		for(int i = 0; i < numTransactions; i++){
-
-		}
+		
 
 
 

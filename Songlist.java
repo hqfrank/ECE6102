@@ -27,8 +27,14 @@ public class Songlist{
 				Songs[i] = new Song(Integer.parseInt(data[0]),data[1],data[2],data[3],data[4],Double.parseDouble(data[5]),data[6]);
 			}
 		}catch(IOException e){
-			
+
 		}
-		
+	}
+
+	public Songlist(Song[] songs){
+		Songs = songs;
+		Genre = "Hybrid";
+		Number = songs.length;
+		Filepath = "N/A";
 	}
 }

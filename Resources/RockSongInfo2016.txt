@@ -23,28 +23,28 @@
 23	In The Dark	3 Doors Down	Us And The Night	3:43	1.29	Rock
 24	Bang Bang	Green Day	Revolution Radio	3:25	1.29	Rock
 25	Hated	Beartooth	Aggressive	3:31	1.29	Rock
-26	The Stage	Avenged Sevenfold	The Stage	8:32	1.29	Rock
-27	Go (Let Me Save You)	Citizen Zero	State Of Mind [Explicit]	4:38	1.29	Rock
-28	Still Breathing	Green Day	Revolution Radio	3:44	1.29	Rock
-29	Here I Am	Asking Alexandria	The Black [Explicit]	4:19	1.29	Rock
-30	11:11	Dinosaur Pile-Up	Eleven Eleven	4:04	1.29	Rock
-31	Stick To Your Guns	Sick Puppies	Stick To Your Guns	3:18	1.29	Rock
-32	Running With Giants	Thousand Foot Krutch	Running With Giants	4:08	1.29	Rock
-33	Lightning In The Sky	Devour the Day	S.O.A.R [Explicit]	3:24	1.29	Rock
-34	Stronger (Extended Version) [Explicit]	Through Fire	Breathe [Explicit]	4:05	1.29	Rock
-35	Remember We Die	Gemini Syndrome	Memento Mori	3:45	1.29	Rock
-36	Hate By Design	Killswitch Engage	Incarnate [Explicit]	3:46	1.29	Rock
-37	Naivety	A Day To Remember	Bad Vibrations (Deluxe Edition)	3:19	1.29	Rock
-38	Is There Anybody out There?	Machine Head	Is There Anybody out There?	4:32	1.29	Rock
-39	Sleeping Dogs (feat. Corey Taylor)	Zakk Wylde	Book of Shadows II (Bonus Track Edition)	4:36	1.29	Rock
-40	Waste A Moment	Kings Of Leon	Walls	3:03	1.29	Rock
-41	Well, Everybody's Fucking In A U.F.O. [Explicit]	Rob Zombie	The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser [Explicit]	2:43	1.29	Rock
-42	Door to Door Cannibals	Chevelle	The North Corridor	4:35	1.29	Rock
-43	Take Me [Explicit]	Korn	The Serenity of Suffering [Explicit]	3:00	1.29	Rock
-44	We Will Not Go Quietly	Sixx:A.M.	Prayers for the Blessed [Explicit]	4:20	1.29	Rock
-45	In Our Dreams	Black Stone Cherry	Kentucky (Deluxe Edition) [Explicit]	3:49	1.29	Rock
-46	Real	Of Mice And Men	Cold World	3:12	1.29	Rock
-47	Generation Idiot	Nonpoint	The Poison Red [Explicit]	3:27	1.29	Rock
-48	Devil's Calling	Parkway Drive	Ire (Deluxe Edition)	3:26	1.29	Rock
-49	Breaking Now	From Ashes to New	Day One	3:30	1.29	Rock
-50	Excuse Me	Fire from the Gods	Narrative	4:04	1.29	Rock
+26	The Stage	Avenged Sevenfold	The Stage	8:32	0.99	Rock
+27	Go (Let Me Save You)	Citizen Zero	State Of Mind [Explicit]	4:38	0.99	Rock
+28	Still Breathing	Green Day	Revolution Radio	3:44	0.99	Rock
+29	Here I Am	Asking Alexandria	The Black [Explicit]	4:19	0.99	Rock
+30	11:11	Dinosaur Pile-Up	Eleven Eleven	4:04	0.99	Rock
+31	Stick To Your Guns	Sick Puppies	Stick To Your Guns	3:18	0.99	Rock
+32	Running With Giants	Thousand Foot Krutch	Running With Giants	4:08	0.99	Rock
+33	Lightning In The Sky	Devour the Day	S.O.A.R [Explicit]	3:24	0.99	Rock
+34	Stronger (Extended Version) [Explicit]	Through Fire	Breathe [Explicit]	4:05	0.99	Rock
+35	Remember We Die	Gemini Syndrome	Memento Mori	3:45	0.99	Rock
+36	Hate By Design	Killswitch Engage	Incarnate [Explicit]	3:46	0.99	Rock
+37	Naivety	A Day To Remember	Bad Vibrations (Deluxe Edition)	3:19	0.99	Rock
+38	Is There Anybody out There?	Machine Head	Is There Anybody out There?	4:32	0.99	Rock
+39	Sleeping Dogs (feat. Corey Taylor)	Zakk Wylde	Book of Shadows II (Bonus Track Edition)	4:36	0.99	Rock
+40	Waste A Moment	Kings Of Leon	Walls	3:03	0.99	Rock
+41	Well, Everybody's Fucking In A U.F.O. [Explicit]	Rob Zombie	The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser [Explicit]	2:43	0.79	Rock
+42	Door to Door Cannibals	Chevelle	The North Corridor	4:35	0.79	Rock
+43	Take Me [Explicit]	Korn	The Serenity of Suffering [Explicit]	3:00	0.79	Rock
+44	We Will Not Go Quietly	Sixx:A.M.	Prayers for the Blessed [Explicit]	4:20	0.79	Rock
+45	In Our Dreams	Black Stone Cherry	Kentucky (Deluxe Edition) [Explicit]	3:49	0.79	Rock
+46	Real	Of Mice And Men	Cold World	3:12	0.59	Rock
+47	Generation Idiot	Nonpoint	The Poison Red [Explicit]	3:27	0.59	Rock
+48	Devil's Calling	Parkway Drive	Ire (Deluxe Edition)	3:26	0.59	Rock
+49	Breaking Now	From Ashes to New	Day One	3:30	0.59	Rock
+50	Excuse Me	Fire from the Gods	Narrative	4:04	0.59	Rock
