@@ -78,7 +78,10 @@ public class Transaction{
 		int[] indexFavoriteSongs = new int[numFavoriteSongs];
 
 		for(int i=0; i<numFavoriteSongs; i++){
-			int rndIndex = randomGenerator.nextInt(songListFavorite.Number);
+			int songRankRange = randomGenerator.nextInt(songListFavorite.Number+1);
+			if(songRankRange < numFavoriteSongs)
+				songRankRange = numFavoriteSongs;
+			int rndIndex = randomGenerator.nextInt(songRankRange);
 			if(i == 0){
 				indexFavoriteSongs[0] = rndIndex;
 			}
@@ -95,7 +98,7 @@ public class Transaction{
 						indexFavoriteSongs[i] = rndIndex;
 					}
 					else{
-						rndIndex = randomGenerator.nextInt(songListFavorite.Number);
+						rndIndex = randomGenerator.nextInt(songRankRange);
 					}
 				}while(notRepeatIndex == false);
 			}

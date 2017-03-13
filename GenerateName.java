@@ -9,13 +9,14 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 import java.nio.file.Path;
+import java.nio.charset.StandardCharsets;
 
 public class GenerateName{
 	public static void main(String[] args) {
 		Path firstNameFile = Paths.get("Resources/FirstNames.txt");
 		File userNameFile = new File("Resources/UserNames.txt");
 		try{
-			List<String> filelines = Files.readAllLines(firstNameFile);
+			List<String> filelines = Files.readAllLines(firstNameFile,StandardCharsets.UTF_8);
 			int numFirstNames = filelines.size();
 			System.out.println(numFirstNames);
 			Random randomGenerator = new Random(1000);
