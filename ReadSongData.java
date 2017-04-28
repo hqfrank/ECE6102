@@ -7,6 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 import java.nio.file.Path;
+import java.nio.charset.StandardCharsets;
 
 public class ReadSongData{
 	public static void main(String[] args) {
@@ -23,7 +24,7 @@ public class ReadSongData{
 			Path songListFile = Paths.get("Resources/"+songGenre.get(i)+"Song2016.txt");
 			File songInfoFile = new File("Resources/"+songGenre.get(i)+"SongInfo2016.txt");
 			try{
-				List<String> filelines = Files.readAllLines(songListFile);
+				List<String> filelines = Files.readAllLines(songListFile,StandardCharsets.UTF_8);
 				int numSongs = filelines.size()/5;
 				System.out.println(numSongs);
 				List<String> songInfo = new ArrayList<String>();

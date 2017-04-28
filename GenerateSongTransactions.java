@@ -8,6 +8,7 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.nio.file.Path;
 import java.util.GregorianCalendar;
+import java.nio.charset.StandardCharsets;
 
 public class GenerateSongTransactions{
 	public static void main(String[] args) {
@@ -33,7 +34,7 @@ public class GenerateSongTransactions{
 		}
 		// =================== Read in All Users ==================
 		try{
-			List<String> filelines = Files.readAllLines(Paths.get("Resources/UserNames.txt"));
+			List<String> filelines = Files.readAllLines(Paths.get("Resources/UserNames.txt"),StandardCharsets.UTF_8);
 			int numUsers = filelines.size();
 			User[] allUsers = new User[numUsers];
 			for(int i=0; i<numUsers; i++){

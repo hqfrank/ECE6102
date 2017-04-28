@@ -7,6 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 import java.nio.file.Path;
+import java.nio.charset.StandardCharsets;
 
 public class Songlist{
 	public Song[] Songs;
@@ -19,7 +20,7 @@ public class Songlist{
 		Filepath = filepath;
 		Path songListFile = Paths.get(Filepath);
 		try{
-			List<String> filelines = Files.readAllLines(songListFile);
+			List<String> filelines = Files.readAllLines(songListFile,StandardCharsets.UTF_8);
 			Number = filelines.size();
 			Songs = new Song[Number];
 			for(int i=0; i<Number; i++){
